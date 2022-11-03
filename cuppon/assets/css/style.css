@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+body{
+  font-family: 'Roboto', sans-serif;
+}
+.price{
+  display: flex;
+  justify-content: end;
+  gap: 0.5em;
+}
+ .price h5 {
+   color: #28a745;
+ }
+ .price a{
+  text-decoration: none;
+ }
+ .layaoutAddressLink {
+   text-decoration: none;
+   color: #707070;
+ }
